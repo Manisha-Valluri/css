@@ -1,0 +1,53 @@
+
+*/p{
+	color: red;
+	font-size: 30px;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+}
+*{
+	font-size: 40px;
+	font-family: cursive;
+	color: yellow;
+}
+
+input[type="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: blue;
+}
+input[type="mail"]{
+	color: orange;
+}
+a[href]{
+	background-color: green;
+}*/
+
+a.link{
+	color: brown;
+}
+a:visited{
+	color: green;
+}
+a:hover{
+	color: red;
+	font-size: 50px;
+}
+a:active{
+	color: yellow;
+}
+div:hover{
+	height: 300px;
+	width: 200;
+	background-color: violet;
+
+}
+
+
+
+
+

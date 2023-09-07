@@ -1,0 +1,153 @@
+.main{
+    height: 1000px;
+    background-color: gray;
+}
+.a{
+    margin-top: 15px;
+    height: 60px;
+    background-color: white;
+    text-align: center;
+}
+.a1{
+    background-color: lightgreen;
+    height: 30px;
+    margin-left: 50px;
+    width: 100px;
+    color: white;
+    border:00px;
+}
+.a2{
+    background-color: skyblue;
+    height: 30px;
+    margin-left: 50px;
+    width: 100px;
+    color: white;
+    border:00px;
+}
+.a3{
+    background-color: skyblue;
+    height: 30px;
+    margin-left: 50px;
+    width: 100px;
+    color: white;
+    border:00px;
+}
+.a4{
+
+    background-color: skyblue;
+    height: 30px;
+    width: 100px;
+    margin-left: 50px;
+    color: white;
+    border:00px;
+}
+.a5{
+    background-color: orangered;
+    height: 30px;
+    width: 100px;
+    margin-left: 50px;
+    color: white;
+    border:00px;
+}
+.b{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 700px;
+    width: 500px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.b1{
+    background-color: skyblue;
+    width: 75px;
+    height: 25px;
+    margin-right: 10px;
+    border: 00px;
+    border-radius: 20px;
+    color: white;
+}
+.b2{
+    background-color: black;
+    width: 75px;
+    height: 25px;
+    margin-left: 10px;
+    border: 5px;
+    border-radius: 20px;
+    color: white;
+}
+.c{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 700px;
+    width: 500px;
+    border-radius: 20px;
+}
+.d{
+    height: 350px;
+    width: 750px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.d1{
+    background-color: blue;
+    width: 150px;
+    height: 25px;
+    border: 00px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+label{
+    padding: 20px;
+    margin-top: 20px;
+}
+input{
+    margin-top: 20px;
+}
+.e{
+    height: 450px;
+    margin-top: 15px;
+    width: 750px;
+    background-color: white;
+    border-radius: 20px;
+}
+h3{
+    padding: 10px;
+}
+.e1{
+    border: 2px solid green;
+    width:600px ;
+    border-radius:10%;
+}
+.e2{
+    border: 2px solid red;
+    width: 500px;
+}
+.e3{
+    border: 2px solid blue;
+    width: 650px;
+}
+.e4{
+    border: 2px solid yellow;
+    width: 400px; 
+}
+.e5{
+    color: orange;
+    width: 700px;
+}
+img{
+    height: 150px;
+    width: 200px;
+    border-radius: 60%;
+    margin-top: 15px;
+}
